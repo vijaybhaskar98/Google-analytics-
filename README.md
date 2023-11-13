@@ -7,47 +7,31 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# Web analytics with Bigquery
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Elevate your digital insights with BigQuery integration – Transform raw data into actionable intelligence for unparalleled data-driven success!_
 
-</header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
-## Step 1: Add headers
 
-_Welcome to "Communicate using Markdown"! :wave:_
+Certified Google Analyst with experience in two well-established industries, I am thrilled to present my latest project focused on analyzing website data through BigQuery integration. Leveraging real-time and Google Merchandise Store data, this undertaking has been a rich learning experience, navigating various challenges. Throughout the project, I employed a diverse set of technical tools to meet the project's requirements. Join me as we delve into the intricacies of this insightful journey.
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
-
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
-
-### Example
+### Technical tools used in this project
 
 ```md
-# This is an `<h1>` header, which is the largest
+# Google analytics[GA4]
 
-## This is an `<h2>` header
+# Bigquery
 
-###### This is an `<h6>` header, which is the smallest
+# Python libraries
+
+# Excel
 ```
 
-#### How it looks
 
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
+## What is Google analytics?
+Google Analytics stands out as a widely embraced web analytics tool, empowering users to customize and extract valuable insights from websites. With its user-friendly interface, this tool facilitates the seamless extraction and visualization of metrics from websites. It serves as an excellent resource for effortlessly deploying analytical features to existing websites, making data analysis and interpretation a streamlined process.
 
 ###### This is an `<h6>` header, which is the smallest
 
