@@ -19,20 +19,14 @@ Certified Google Analyst with experience in two well-established industries, I a
 
 ### Technical tools used in this project
 
-```md
-# Google analytics[GA4]
-
-# Bigquery
-
-# Python libraries
-
-# Excel
-```
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your_username) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Looker](https://img.shields.io/badge/Looker-03A9F4?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/) [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
 
 
 ## What is Google analytics?
 Google Analytics stands out as a widely embraced web analytics tool, empowering users to customize and extract valuable insights from websites. With its user-friendly interface, this tool facilitates the seamless extraction and visualization of metrics from websites. It serves as an excellent resource for effortlessly deploying analytical features to existing websites, making data analysis and interpretation a streamlined process.
 
+## Why Bigquery integration?
+Google Analytics boasts a robust interface for diverse analytics needs, yet faces challenges handling complex data and intricate queries. The solution lies in seamless integration with BigQuery, a petabyte-scale data warehouse offering cost-effectiveness and user-friendly tools through Google Cloud Platform. Renowned for easy integration with visualization tools like Looker, BigQuery efficiently manages both structured and semi-structured data. Empowered by additional AI tools from Google Cloud Platform, we can unleash the potential for transformative applications, including predictive analytics, website chatbots, and efficient methods to attract new customers. Join me as we explore these concepts in our upcoming project.
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
