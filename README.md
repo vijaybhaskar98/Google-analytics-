@@ -27,30 +27,14 @@ Google Analytics stands out as a widely embraced web analytics tool, empowering 
 
 ## Why Bigquery integration?
 Google Analytics boasts a robust interface for diverse analytics needs, yet faces challenges handling complex data and intricate queries. The solution lies in seamless integration with BigQuery, a petabyte-scale data warehouse offering cost-effectiveness and user-friendly tools through Google Cloud Platform. Renowned for easy integration with visualization tools like Looker, BigQuery efficiently manages both structured and semi-structured data. Empowered by additional AI tools from Google Cloud Platform, we can unleash the potential for transformative applications, including predictive analytics, website chatbots, and efficient methods to attract new customers. Join me as we explore these concepts in our upcoming project.
-###### This is an `<h6>` header, which is the smallest
 
-### :keyboard: Activity: Edit your file with headers
+## Project OverView
+In this project, I delved into the analysis of Google Analytics data extracted from the Google Merchandise Store, a real-time ecommerce website. Leveraging Jupyter Notebook, I seamlessly integrated this data with Google BigQuery, capitalizing on the scalability of BigQuery and harnessing the advantages of Python. The project is now complete, meticulously compartmentalized into various subtopics, offering a comprehensive exploration of the intersections between Google Analytics, real-time ecommerce, and BigQuery's robust capabilities.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+### Conversion Analytics
+[Conversion Analytics](https://github.com/vijaybhaskar98/Google-analytics-/tree/main/Conversion%20analytics) In this specific subtopic, I focused on analyzing the customer journey, tracing their path from the initial visitor stage to the final conversion stage. Throughout this project, we gain valuable insights into visitor behavior across different mediums, shedding light on the origins and channels through which our visitors arrive. This exploration provides a comprehensive understanding of user engagement and enables strategic decision-making to enhance the overall customer experience.
 
-<footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
