@@ -34,10 +34,23 @@ In this project, I delved into the analysis of Google Analytics data extracted f
 ### Conversion Analytics
 [Conversion Analytics](https://github.com/vijaybhaskar98/Google-analytics-/tree/main/Conversion%20analytics) In this specific subtopic, I focused on analyzing the customer journey, tracing their path from the initial visitor stage to the final conversion stage. Throughout this project, we gain valuable insights into visitor behavior across different mediums, shedding light on the origins and channels through which our visitors arrive. This exploration provides a comprehensive understanding of user engagement and enables strategic decision-making to enhance the overall customer experience.
 
+### Multitouch attribution
+[Multi touch attribution model](https://github.com/vijaybhaskar98/Google-analytics-/tree/1f950a9340c96e1c3e0a039d07dfcb5a693204e3/Multi%20touch%20attribution%20modeling%20with%20google%20analytics%20%20data) Credit attribution models provide crucial insights into the effectiveness of different channels. These insights empower strategic decisions, enabling cost efficiency, informed investment decisions, and enhancing channel interactions for a more customer-friendly approach.
 
+In this notebook, I've explored various attribution models, including first-touch, last-touch, linear-touch models, and delved into the probabilistic nature of the Markov model. While the Markov model exhibits high efficiency, it's important to note that no model is 100% secure. The choice of the model depends on specific requirements and objectives.
+This exploration offers a glimpse into the world of credit attribution models, shedding light on their role in shaping impactful decisions. 🚀💡
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### Exploratory Data Analytics with Google Merchandise Store 
+[EDA with Google sample data](https://github.com/vijaybhaskar98/Google-analytics-/tree/1f950a9340c96e1c3e0a039d07dfcb5a693204e3/Google%20Merchandise%20store_Exploratory%20data%20analytics) In this subtopic, we unravel various insights from the data, focusing on Key Performance Indicators (KPIs). To familiarize ourselves with the dataset, thorough exploration is essential. Let's dive into the intricacies of the data and uncover its stories. 🕵️‍♂️📈 #DataExploration
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+### Importent links
+*  Google sample data [Kaggle](https://www.kaggle.com/datasets/bigquery/google-analytics-sample)
+*  Google analytics cerification [Skillshop](https://skillshop.exceedlms.com/student/catalog)
+*  [Google cloud platform](https://cloud.google.com/free/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644159077391-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General_core%20brand_main-KWID_43700074766895886-aud-1596662388894%3Akwd-6458750523&userloc_9062006-network_g&utm_term=KW_google%20cloud&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r2PNQtXlG2aaYnAXvDahMA4x8WaD4gxOJWZ9KrKehjhsBJciwvWaiUaAvL5EALw_wcB&gclsrc=aw.ds)
 
-</footer>
+## Conclusion
+In this project, I've applied my learnings from hands-on experience as a data analyst at two prominent e-commerce companies, Ajio and Livespace. The exploration tackled practical problems, demonstrating how valuable decisions can be derived from website analytics.
+
+While this project provides insights, there's always room for improvement. I welcome suggestions and opportunities for collaborative work.
+
+**Thank you for visiting this project! 🙌📊**
