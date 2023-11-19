@@ -3,6 +3,7 @@
   <img width="1000" height="300" src="https://github.com/vijaybhaskar98/Google-analytics-/blob/c0775456e5e9e8d7f4695932a528ec04012ee64f/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-image_3618751.jpg" alt="Web Analytics Banner">
 </p>
 
+# Web Analytics
 _Elevate your digital insights with BigQuery integration – Transform raw data into actionable intelligence for unparalleled data-driven success!_
 
 
