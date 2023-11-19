@@ -1,13 +1,8 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<p align="center">
+  <img width="600" src="https://example.com/path/to/your/banner-image.png" alt="Web Analytics Banner">
+</p>
 
-# Web analytics with Bigquery
 
 _Elevate your digital insights with BigQuery integration – Transform raw data into actionable intelligence for unparalleled data-driven success!_
 
