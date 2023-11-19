@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="600" src="https://example.com/path/to/your/banner-image.png" alt="Web Analytics Banner">
+  <img width="600" src="https://github.com/vijaybhaskar98/Google-analytics-/blob/c0775456e5e9e8d7f4695932a528ec04012ee64f/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-image_3618751.jpg" alt="Web Analytics Banner">
 </p>
 
 
