@@ -39,6 +39,7 @@ This exploration offers a glimpse into the world of credit attribution models, s
 [EDA with Google sample data](https://github.com/vijaybhaskar98/Google-analytics-/tree/1f950a9340c96e1c3e0a039d07dfcb5a693204e3/Google%20Merchandise%20store_Exploratory%20data%20analytics) In this subtopic, we unravel various insights from the data, focusing on Key Performance Indicators (KPIs). To familiarize ourselves with the dataset, thorough exploration is essential. Let's dive into the intricacies of the data and uncover its stories. 🕵️‍♂️📈 #DataExploration
 
 ### Importent links
+*  [Presentation](https://youtu.be/qyK_PYABH9Y)
 *  Google sample data [Kaggle](https://www.kaggle.com/datasets/bigquery/google-analytics-sample)
 *  Google analytics cerification [Skillshop](https://skillshop.exceedlms.com/student/catalog)
 *  [Google cloud platform](https://cloud.google.com/free/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644159077391-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General_core%20brand_main-KWID_43700074766895886-aud-1596662388894%3Akwd-6458750523&userloc_9062006-network_g&utm_term=KW_google%20cloud&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r2PNQtXlG2aaYnAXvDahMA4x8WaD4gxOJWZ9KrKehjhsBJciwvWaiUaAvL5EALw_wcB&gclsrc=aw.ds)
